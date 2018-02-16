@@ -13,9 +13,6 @@ Run the following to install a nodejs backend server that modifies the nginx con
 ```
 →  Installs nodejs, npm and tmux binaries
 
-→  Clone the github repository 
-https://github.com/nishalpereira/Video-server-backend.git
-
 →  Install the npm packages along with nginx-conf and node-force
 
 →  Creates an encrypted password file which is used to authenticate all API requests.
