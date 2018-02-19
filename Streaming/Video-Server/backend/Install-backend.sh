@@ -13,6 +13,7 @@ case $1 in
                     sudo apt-get install -y nodejs
 		    sudo apt-get install npm
 		    sudo apt-get install tmux
+		    sudo cp -r Video-server-backend /usr/local/nginx/html
 		    cd /usr/local/nginx/html
 		    cd Video-server-backend
 		    sudo npm install
