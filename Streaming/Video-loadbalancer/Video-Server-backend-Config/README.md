@@ -11,7 +11,6 @@ Install Java, Tomcat7 and Eclipse for Java EE developers
 sudo apt-get install default-jdk
 sudo apt-get install tomcat7
 sudo apt-get install tomcat7-docs tomcat7-examples tomcat7-admin
-curl -O http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-linux-gtk-x86_64.tar.gz&mirror_id=1248
 tar -zxvf eclipse-jee-mars-2-linux-gtk-x86_64.tar.gz -C /usr/
 ln -s /usr/eclipse/eclipse /usr/bin/eclipse
 ```
