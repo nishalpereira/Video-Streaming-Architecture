@@ -20,8 +20,8 @@ Run the following to install a nodejs backend server that modifies the nginx con
 ### Start or Stop backend
 
 ```
-./start.sh 
-./stop.sh  
+sudo ./start.sh 
+sudo ./stop.sh  
 ```
 
 
